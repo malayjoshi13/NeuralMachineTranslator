@@ -64,3 +64,9 @@ Enjoy using Streamlit-based Neural Machine Translation application (using Transf
 ..................................................................................................
 
 **Observation 3:** ```facebook/mbart-large-50-many-to-one-mmt``` fails to translate short sentences like “ये मेरे पिता है” to English, but very well translates longer sentences like “राधा को टीम में उनके उत्कृष्ट समर्पण और अभिनव योगदान के लिए कर्मचारी ऑफ द मंथ का सम्मान मिला।” to English. Will do its analysis later on.
+
+## End-note
+Thank you for patiently reading till here. I am pretty sure just like me, you would have also learnt something new about developing a Streamlit-based application using models hosted on HuggingFace, then dockerizing the application and deploying it to cloud platform. Using these learnt concepts, I will push myself to explore more practical deployment techniques, tools and concepts to scale this repo further. I encourage you also to do the same!!
+
+## Contributing
+You are welcome to contribute to the repository with your PRs. In case of query or feedback, please write to me at 13.malayjoshi@gmail.com or https://www.linkedin.com/in/malayjoshi13/.
