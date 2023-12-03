@@ -1,0 +1,10 @@
+# conda create -n "hey" python=3.7
+# conda activate hey
+# pip install -r requirements.txt
+
+pip
+streamlit
+transformers
+sentencepiece 
+torch
+sacremoses
