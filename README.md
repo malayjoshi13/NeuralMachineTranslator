@@ -52,7 +52,7 @@ Enjoy using Streamlit-based Neural Machine Translation application (using Transf
 
 ..................................................................................................
 
-**Loading model which is already downloaded in local + with streamlit caching
+**Loading model which is already downloaded in local + with streamlit caching**
 - time taken for first translation of sentence “यह मेरी बिल्ली है” (which includes downloading model from hugging face) → 136.17 sec
 - time taken for second translation of sentence “यह मेरा घोड़ा है” → 9.63 sec
 - time taken for third translation of sentence “यह मेरी बिल्ली है” → 5.91 sec
