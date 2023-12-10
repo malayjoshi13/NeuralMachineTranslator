@@ -20,9 +20,8 @@ Here is a user-flow video of the developed Streamlit-based NMT application hoste
 ## Getting started
 
 ```
-cd <working-directory>
 git clone https://github.com/malayjoshi13/NeuralMachineTranslator.git
-cd <working-directory>/NeuralMachineTranslator
+cd NeuralMachineTranslator
 conda create -n "NMT" python=3.7
 conda activate NMT
 pip install -r requirements.txt
