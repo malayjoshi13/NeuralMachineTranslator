@@ -7,7 +7,8 @@ This repository is a dedicated effort to facilitate a hands-on experience for me
 
 Here is a user-flow video of the developed Streamlit-based NMT application running on local (will soon deploy it over cloud as well):<br>
 
-https://github.com/malayjoshi13/NeuralMachineTranslator/assets/71775151/f6777594-0aa5-4255-9ba7-2aec829702c2
+https://github.com/malayjoshi13/NeuralMachineTranslator/assets/71775151/2941b3ad-92f6-4099-bbf4-aba90e6c8152
+
 <br>
 
 **Note**: this repository is not aimed at doing a comparative analysis between the three used Transformer-based Pretrained Language Models, will leave it for future work. Currently, this repository aims to only for developing a Streamlit-based application around a practical use case using existing models and learn process to deploy the same to be used in real-time by users across the globe. Also, due to constrain of computational resources, dockerization and deployment is still in progress. Will soon update about the hosted web application!! 
