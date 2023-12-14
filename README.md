@@ -5,9 +5,9 @@ This repository is a dedicated effort to facilitate a hands-on experience for me
 - facebook/mbart-large-50-many-to-one-mmt (read more at https://huggingface.co/facebook/mbart-large-50-many-to-one-mmt)
 - facebook/m2m100_418M (read more at https://huggingface.co/facebook/m2m100_418M)
 
-Here is a user-flow video of the developed Streamlit-based NMT application hosted on Cloud Platform:<br>
-
-<br>
+Here is a user-flow video of the developed Streamlit-based NMT application running on local (will soon deploy it over cloud as well):<br>
+https://github.com/malayjoshi13/NeuralMachineTranslator/assets/71775151/590210ed-8cac-497f-bb17-9a1fe2d7f0e3
+<br><br>
 
 **Note**: this repository is not aimed at doing a comparative analysis between the three used Transformer-based Pretrained Language Models, will leave it for future work. Currently, this repository aims to only for developing a Streamlit-based application around a practical use case using existing models and learn process to deploy the same to be used in real-time by users across the globe. Also, due to constrain of computational resources, dockerization and deployment is still in progress. Will soon update about the hosted web application!! 
 
